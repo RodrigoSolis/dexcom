@@ -1,0 +1,15 @@
+/Users/rodrigo/Projects/Dexcom/Dexcom/bin/Debug/net7.0/Dexcom
+/Users/rodrigo/Projects/Dexcom/Dexcom/bin/Debug/net7.0/Dexcom.deps.json
+/Users/rodrigo/Projects/Dexcom/Dexcom/bin/Debug/net7.0/Dexcom.runtimeconfig.json
+/Users/rodrigo/Projects/Dexcom/Dexcom/bin/Debug/net7.0/Dexcom.dll
+/Users/rodrigo/Projects/Dexcom/Dexcom/bin/Debug/net7.0/Dexcom.pdb
+/Users/rodrigo/Projects/Dexcom/Dexcom/obj/Debug/net7.0/Dexcom.csproj.AssemblyReference.cache
+/Users/rodrigo/Projects/Dexcom/Dexcom/obj/Debug/net7.0/Dexcom.GeneratedMSBuildEditorConfig.editorconfig
+/Users/rodrigo/Projects/Dexcom/Dexcom/obj/Debug/net7.0/Dexcom.AssemblyInfoInputs.cache
+/Users/rodrigo/Projects/Dexcom/Dexcom/obj/Debug/net7.0/Dexcom.AssemblyInfo.cs
+/Users/rodrigo/Projects/Dexcom/Dexcom/obj/Debug/net7.0/Dexcom.csproj.CoreCompileInputs.cache
+/Users/rodrigo/Projects/Dexcom/Dexcom/obj/Debug/net7.0/Dexcom.dll
+/Users/rodrigo/Projects/Dexcom/Dexcom/obj/Debug/net7.0/refint/Dexcom.dll
+/Users/rodrigo/Projects/Dexcom/Dexcom/obj/Debug/net7.0/Dexcom.pdb
+/Users/rodrigo/Projects/Dexcom/Dexcom/obj/Debug/net7.0/Dexcom.genruntimeconfig.cache
+/Users/rodrigo/Projects/Dexcom/Dexcom/obj/Debug/net7.0/ref/Dexcom.dll

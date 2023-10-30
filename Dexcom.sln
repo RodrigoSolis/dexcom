@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 25.0.1706.6
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Dexcom", "Dexcom\Dexcom.csproj", "{4AB2823B-ACC3-4CFF-BEB6-834C75B3EFB3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Dexcom.Test", "Dexcom.Test\Dexcom.Test.csproj", "{60436E12-D4E2-4AC8-ACE7-AFFA0CB93A7D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4AB2823B-ACC3-4CFF-BEB6-834C75B3EFB3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4AB2823B-ACC3-4CFF-BEB6-834C75B3EFB3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4AB2823B-ACC3-4CFF-BEB6-834C75B3EFB3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4AB2823B-ACC3-4CFF-BEB6-834C75B3EFB3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{60436E12-D4E2-4AC8-ACE7-AFFA0CB93A7D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{60436E12-D4E2-4AC8-ACE7-AFFA0CB93A7D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{60436E12-D4E2-4AC8-ACE7-AFFA0CB93A7D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{60436E12-D4E2-4AC8-ACE7-AFFA0CB93A7D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A52CCEF2-EC9A-4131-B7E3-BA8FC5811D3C}
+	EndGlobalSection
+EndGlobal

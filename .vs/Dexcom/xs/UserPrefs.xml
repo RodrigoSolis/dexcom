@@ -1,0 +1,49 @@
+﻿<Properties StartupConfiguration="{4AB2823B-ACC3-4CFF-BEB6-834C75B3EFB3}|Default">
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints />
+  <MonoDevelop.Ide.ItemProperties.Dexcom PreferredExecutionTarget="MonoDevelop.Default" />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Dexcom.Test/OperationsTests/Problem1Tests.cs">
+    <Files>
+      <File FileName="Dexcom/Program.cs" Line="20" Column="1" NotebookId="1" />
+      <File FileName="Dexcom.Test/OperationsTests/Problem2.cs" Line="1" Column="1" NotebookId="1" />
+    </Files>
+    <FloatingWindows>
+      <FloatingWindow WindowId="1" X="1902" Y="93" Width="1573" Height="962">
+        <Files>
+          <File FileName="Dexcom.Test/Problems/Problem1.cs" Line="8" Column="6" />
+          <File FileName="Dexcom.Test/Problems/Problem2.cs" Line="1" Column="1" />
+          <File FileName="Dexcom.Test/OperationsTests/Problem1.cs" Line="1" Column="1" />
+          <File FileName="Dexcom.Test/OperationsTests/Problem1Tests.cs" Line="1" Column="1" />
+        </Files>
+      </FloatingWindow>
+    </FloatingWindows>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Dexcom" expanded="True">
+            <Node name="Dexcom" expanded="True" />
+            <Node name="Dexcom.Test" expanded="True">
+              <Node name="Dependencies" expanded="True">
+                <Node name="ProjectDependencies" expanded="True" />
+              </Node>
+              <Node name="OperationsTests" expanded="True">
+                <Node name="Problem1Tests.cs" selected="True" />
+              </Node>
+              <Node name="Problems" expanded="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.UnitTesting.TestPad">
+        <State name="__root__">
+          <Node name="Dexcom" selected="True" />
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State />
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+</Properties>
